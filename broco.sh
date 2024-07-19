@@ -1,1 +1,0 @@
-./cli.sh build ./broco/game.lua --core love --run

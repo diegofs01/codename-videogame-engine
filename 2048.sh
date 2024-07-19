@@ -1,0 +1,1 @@
+./cli.sh build ./2048/game.lua --core love --run
